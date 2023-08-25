@@ -1,0 +1,10 @@
+.button
+{
+width: 100px;
+height: 50px;
+background-color: aliceblue;
+border: 2px solid rgb(254, 219, 21);
+box-shadow: 2px 3px 1px greenyellow;
+border-radius: 5px;
+
+}
