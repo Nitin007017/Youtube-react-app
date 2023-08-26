@@ -25,7 +25,7 @@ return (
     <div className="pic">
     <img src={`https://picsum.photos/id/${id}/160/90`} alt="Katherine Johnson" />
     </div>
-    <div className='title'>Mogodbtitle</div>
+    <div className='title'>{title}</div>
     <div  className="channel">{channel} {(verification )&&  '✅'}</div>
     <div className="views">
       {views} views <span>.</span>{time}
