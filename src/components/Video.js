@@ -28,7 +28,7 @@ return (
     <div className='title'>{title}</div>
     <div  className="channel">{channel} {(verification )&&  '✅'}</div>
     <div className="views">
-      {views} views <span>.</span>{time}
+      {views} viewsssss <span>.</span>{time}
 <div>{channel}</div>
 <div>{children}</div>
     </div>
